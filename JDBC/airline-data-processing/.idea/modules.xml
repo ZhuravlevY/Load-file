@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/airline-data-processing.iml" filepath="$PROJECT_DIR$/airline-data-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/airline-data-processing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/airline-data-processing_main.iml" group="airline-data-processing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/airline-data-processing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/airline-data-processing_test.iml" group="airline-data-processing" />
+    </modules>
+  </component>
+</project>
